@@ -2,7 +2,9 @@ Olá! Sou leonardo Jackson Programador Front end.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leojjackson&show_icons=true&theme=dark)
 
-Most used Languages 
+##
+
+MOST USED LANGUAGES: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
@@ -13,7 +15,7 @@ Most used Languages
 
  ##
 
- Redes Socias.
+REDES SOCIAIS: 
 
 <div> 
   <a href="https://instagram.com/l.jjackson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
