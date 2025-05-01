@@ -1,10 +1,12 @@
-Olá! Sou leonardo Jackson Programador Front end.
+## Hello  I'am Leonardo jackson a Front-end programmer.
+I'am a person that aways look for new experiences, new challenges to improve my skills. 
+<p> While coding i like to give my best and try new things. </p> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leojjackson&show_icons=true&theme=dark)
 
 ##
 
-MOST USED LANGUAGES: 
+# Most used Languages: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
@@ -13,9 +15,8 @@ MOST USED LANGUAGES:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- ##
-
-REDES SOCIAIS: 
+##
+Social medias: 
 
 <div> 
   <a href="https://instagram.com/l.jjackson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
