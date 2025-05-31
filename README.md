@@ -1,6 +1,6 @@
 ## Hello  I'am Leonardo jackson a Front-end programmer.
-I'am a person that aways look for new experiences, new challenges to improve my skills. 
-<p> While coding i like to give my best and try new things. </p> 
+I'am a person that's always looking for new experiences, new challenges to improve my code skills. 
+<p> While coding i like giving my best and try new things. </p> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leojjackson&show_icons=true&theme=dark)
 
