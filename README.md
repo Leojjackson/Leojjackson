@@ -4,8 +4,6 @@ I'am a person that's always looking for new experiences, new challenges to impro
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leojjackson&show_icons=true&theme=dark) -->
 
-##
-
 # Most used Languages: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
