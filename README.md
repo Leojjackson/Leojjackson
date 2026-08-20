@@ -8,7 +8,7 @@ Atualmente Cursando **Engenharia de Software**.
 I am always looking for new experiences and challenges to continuously improve my coding skills.
 Currently studying Software Engineering.
 
-> While coding, I always give my best and love trying new things! 🚀
+> While coding, I always give my best and love trying new things! 🚀 <br>
 > Enquanto criando códigos, eu sempre dou o melhor e sempre quero aprender novas coisas!🚀
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leojjackson&show_icons=true&theme=dark) -->
