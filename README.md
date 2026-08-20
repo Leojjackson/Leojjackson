@@ -1,6 +1,6 @@
 ## Hello, I'm Leonardo Jackson! 👋 
 
-**Português** #
+**Português** <br>
 Estou sempre procurando por novas experiências e novos desafios para continuar a desenvolver minhas habilidades de código.
 Atualmente Cursando **Engenharia de Software**. 
 
