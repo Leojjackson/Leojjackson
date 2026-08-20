@@ -9,10 +9,11 @@ I am always looking for new experiences and challenges to continuously improve m
 Currently studying Software Engineering.
 
 > While coding, I always give my best and love trying new things! 🚀
+> Enquanto criando códigos, eu sempre dou o melhor e sempre quero aprender novas coisas!🚀
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leojjackson&show_icons=true&theme=dark) -->
 
-# Most used Languages: 
+# Most used Languages:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
